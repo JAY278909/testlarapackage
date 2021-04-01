@@ -1,0 +1,19 @@
+{
+    "name": "kisshtcrypt/makecrypt",
+    "description": "Encryption and decryption",
+    "type": "project",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "Jayesh",
+            "email": "jayesh.bhagat@kissht.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	    "autoload": {
+		"psr-4": {
+		    "Kisshtcrypt\\Makecrypt\\": "src/"
+		}
+    },
+    "require": {}
+}
